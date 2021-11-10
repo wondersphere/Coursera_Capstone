@@ -1,2 +1,2 @@
 # Coursera_Capstone
- IBM Applied Data Science Capstone Project
+ IBM Applied Data Science Capstone Project - Predicting Car Accident's Severity
